@@ -1,0 +1,5895 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 98,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "linuxExecutableFilename": "",
+    "macExecutableFilename": "",
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectFile": "D:\\CSFILES\\COMSCI\\GAME PROJECT\\gameproject.json",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "winExecutableFilename": "",
+    "winExecutableIconFile": "",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 2160,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "4maps/1) Tilemaps/tiles-jungle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4maps/1) Tilemaps/tiles-jungle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4maps/2) Backgrounds/hills.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4maps/2) Backgrounds/hills.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_015.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_idle_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_walk_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_walk_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_019.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_018.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_015.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_idle_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_018.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/4/4_animation_walk_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/4/4_animation_walk_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/PNG/elves/1/1_animation_attack_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/PNG/elves/1/1_animation_attack_000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_IDLE_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_ATTAK_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "craftpix-062999-2d-fantasy-orc-free-sprite-sheets (1)/_PNG/1_ORK/ORK_01_WALK_009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pausemenu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pausemenu.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pausebutton.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pausebutton.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pause1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pause1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "soundbutton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "soundbutton1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "musicbutton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "musicbutton1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hud_heartFull.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hud_heartFull.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hud_heartHalf.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hud_heartHalf.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hud_heartEmpty.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hud_heartEmpty.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "No More Magic.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "No More Magic.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "musicbutton3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "musicbutton3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "musicbutton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "musicbutton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Fantasy Sound Library/Wav/Menu_Select_00.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Fantasy Sound Library/Wav/Menu_Select_00.wav",
+        "userAdded": true
+      },
+      {
+        "disablePreload": false,
+        "file": "NewFile.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "NewFile.json",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "DIALOGUEBOX.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "DIALOGUEBOX.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Woodland Fantasy.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Woodland Fantasy.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/SCML/elves/4/head.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/SCML/elves/4/head.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "Intro.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "Intro.json",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pause2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pause2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "disablePreload": false,
+        "file": "Dialogue.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "Dialogue.json",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "soundbutton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "soundbutton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "soundbutton3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "soundbutton3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Window.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Window.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "enchanted_land/Enchanted Land.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "enchanted_land/Enchanted Land.otf",
+        "userAdded": false
+      },
+      {
+        "file": "wolfs_bane/wolfsbane2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "wolfs_bane/wolfsbane2.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "s sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "s sound.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "WrongAnswer.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "WrongAnswer.mp3",
+        "userAdded": false
+      },
+      {
+        "file": "CorrectAnswer.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "CorrectAnswer.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "o sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "o sound.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "a sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "a sound.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "n sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "n sound.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "e sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "e sound.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "u sound.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "u sound.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Fantasy Sound Library/Mp3/Jingle_Achievement_00.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Fantasy Sound Library/Mp3/Jingle_Achievement_00.mp3",
+        "userAdded": true
+      },
+      {
+        "file": "Fantasy Sound Library/Mp3/Jingle_Win_00.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Fantasy Sound Library/Mp3/Jingle_Win_00.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/2) Backgrounds/hills.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\2) Backgrounds\\hills.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/1) Tilemaps/tiles-stones.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\1) Tilemaps\\tiles-stones.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_idle_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/1/1_animation_walk_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_idle_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/PNG/elves/4/4_animation_walk_019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SCIENCE GAME ASSETS/SCML/elves/4/head.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SCIENCE GAME ASSETS\\SCML\\elves\\4\\head.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/pausemenu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\pausemenu.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/PAUSEBUTTON1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\PAUSEBUTTON1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/PAUSEBUTTON2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\PAUSEBUTTON2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/soundbutton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\soundbutton1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/soundbutton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\soundbutton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/sound3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\sound3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/musicbutton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\musicbutton1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/musicbutton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\musicbutton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/musicbutton3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\musicbutton3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/Window.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\Window.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ASSETS/GUI/DIALOGUEBOX.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ASSETS\\GUI\\DIALOGUEBOX.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "name": "Sawcon",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "IDLE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WALK",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SawconScene",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "IDLE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_idle_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WALK",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\1\\1_animation_walk_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NuddinyoureScene",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "IDLE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WALK",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nuddinyoure",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 1500,
+          "canGrabPlatforms": false,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "roundCoordinates": true,
+          "slopeMaxAngle": 60,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "IDLE",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_idle_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WALK",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\PNG\\elves\\4\\4_animation_walk_019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NuddinyoureHead",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "SCIENCE GAME ASSETS\\SCML\\elves\\4\\head.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PauseMenu",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\pausemenu.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PauseButton",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\PAUSEBUTTON1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\PAUSEBUTTON2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SFXButton",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "on/off",
+          "value": ""
+        }
+      ],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\soundbutton1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\soundbutton2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\sound3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MusicButton",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "on/off",
+          "value": ""
+        }
+      ],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\musicbutton1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\musicbutton2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\musicbutton3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WindowQuestion",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\Window.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AnswerBox",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\DIALOGUEBOX.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIalogueBox",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "ASSETS\\GUI\\DIALOGUEBOX.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "Pause",
+      "value": ""
+    },
+    {
+      "name": "Health",
+      "value": ""
+    },
+    {
+      "name": "MusicOn/Off",
+      "value": ""
+    },
+    {
+      "name": "SFXOn/Off",
+      "value": ""
+    },
+    {
+      "name": "MusicSelect",
+      "value": ""
+    },
+    {
+      "name": "Transition",
+      "value": ""
+    },
+    {
+      "name": "TextScrollSpeed",
+      "value": ""
+    },
+    {
+      "name": "TextScroll",
+      "value": ""
+    },
+    {
+      "name": "SFXSelect",
+      "value": ""
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/gameplay"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cutscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/transition1"
+    }
+  ],
+  "externalEvents": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/player-movement"
+    }
+  ],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}

@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Choice",
+		"tags": "",
+		"body": "Let's Begin! \n[[Start|scenechange]] ",
+		"position": {
+			"x": 327,
+			"y": 838
+		},
+		"colorID": 1
+	},
+	{
+		"title": "scenechange",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 624,
+			"y": 821
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Hello there Player, nice to meet you!\nMy name is Nuddinyoure and I'm here to help you become a powerful wizard!\nYou will face 3 different challenges, each one is made to make you stronger\nThe first challenge will be about English, followed by Maths and finally Science\nAfter all this you will be well prepared to face the all sorts of problems as a wizard\nAre you ready? \n[[Yes|Choice]]\n",
+		"position": {
+			"x": 318,
+			"y": 571
+		},
+		"colorID": 0
+	}
+]

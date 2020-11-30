@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Hello there Player, nice to meet you!\nMy name is Nuddinyoure and I'm here to help you become a powerful wizard!\nYou will face 3 different challenges, each one is made to make you stronger\nThe first challenge will be about English, followed by Maths and finally Science\nIn this challenge you will be asked to select the missing letter to a word\nAre you ready?\n[[Yes|DialogueYes]]\n[[No|DialogueNo]]",
+		"position": {
+			"x": 492,
+			"y": -102
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DialogueYes",
+		"tags": "",
+		"body": "Alright, let's begin!\n[[Start 1st challenge|scenechange]]",
+		"position": {
+			"x": 238,
+			"y": 149
+		},
+		"colorID": 0
+	},
+	{
+		"title": "scenechange",
+		"tags": "",
+		"body": "123",
+		"position": {
+			"x": 502,
+			"y": 431
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DialogueNo",
+		"tags": "",
+		"body": "Nervous I see, nothing to worry about, just do your best!\n[[Start 1st challenge|scenechange]]",
+		"position": {
+			"x": 735,
+			"y": 138
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Alright, Sawcon. This time you will be using your math skills in order to create potions!\r\nYou will need to use your keyboard in this next class.\r\nDo you get it? \r\n[[Yes, I get it.|A1]]\r\n[[No, can you repeat?|A2]]",
+		"position": {
+			"x": 446,
+			"y": 217
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A1",
+		"tags": "",
+		"body": "Good luck and have fun!\n[[play|scenechange]]",
+		"position": {
+			"x": 147,
+			"y": 389
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A2",
+		"tags": "",
+		"body": "No worries. I will explain again.",
+		"position": {
+			"x": 756,
+			"y": 356
+		},
+		"colorID": 0
+	},
+	{
+		"title": "scenechange",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 525,
+			"y": 535
+		},
+		"colorID": 0
+	}
+]

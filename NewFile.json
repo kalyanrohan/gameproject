@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Congratulations you have finished our game!Thank You for playing, You are a true wizard!\n[[press \"X\"|endgame]]",
+		"position": {
+			"x": 294,
+			"y": 86
+		},
+		"colorID": 0
+	},
+	{
+		"title": "endgame",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 600,
+			"y": 83
+		},
+		"colorID": 0
+	}
+]
